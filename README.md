@@ -1,8 +1,5 @@
-# custom-component-tag-box
-Custom component tag box
-
 # Tag Box
-A custom component.
+Custom component tag box.
 
 ### Demo Link
 
